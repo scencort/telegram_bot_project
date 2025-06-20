@@ -84,6 +84,7 @@
 pip install aiogram  
 
 pip install sqlite
+```
 
 ---
 
