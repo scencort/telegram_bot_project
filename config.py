@@ -1,0 +1,1 @@
+DATABASE_PATH = "events.db"
