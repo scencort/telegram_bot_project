@@ -54,8 +54,8 @@
 ### `registrations`
 | Поле      | Тип     | Описание                    |
 |-----------|---------|-----------------------------|
-| user_id   | INTEGER | Telegram ID пользователя    |
-| event_id  | INTEGER | ID мероприятия              |
+| user_id   | INT | Telegram ID пользователя    |
+| event_id  | INT | ID мероприятия              |
 
 ---
 
@@ -82,5 +82,5 @@
 
 ```bash
 pip install aiogram  
- 
+
 pip install sqlite
