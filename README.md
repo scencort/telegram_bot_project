@@ -90,4 +90,4 @@ pip install sqlite
 
 ## 🖼 Скриншоты
 
-Скриншоты проекта хранятся в папке [`screens`](https://github.com/scencort/telegram_bot_project/tree/b267b5222f231b29b1a2346357b4ad8cd8a8058f/Screenshots%20of%20the%20project's%20work).
+Скриншоты проекта хранятся в папке [`Screenshots of the project's work`](https://github.com/scencort/telegram_bot_project/tree/b267b5222f231b29b1a2346357b4ad8cd8a8058f/Screenshots%20of%20the%20project's%20work).
