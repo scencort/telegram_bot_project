@@ -10,7 +10,7 @@ from aiogram.utils.i18n import gettext as _
 import sqlite3
 import asyncio
 from datetime import datetime, timedelta
-    from config import DATABASE_PATH
+from config import DATABASE_PATH
 
 load_dotenv(dotenv_path="BOT_TOKEN.env")
 TOKEN = os.getenv("BOT_TOKEN")
