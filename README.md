@@ -81,4 +81,5 @@
 1. Установи зависимости:
 
 ```bash
-pip install -r requirements.txt
+pip install aiogram   
+pip install sqlite
