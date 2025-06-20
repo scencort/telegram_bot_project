@@ -1,0 +1,5 @@
+aiogram>=3.0.0
+python-dotenv
+sqlite3 ; встроен в стандартную библиотеку Python
+asyncio ; встроен в стандартную библиотеку Python
+datetime ; встроен в стандартную библиотеку Python
