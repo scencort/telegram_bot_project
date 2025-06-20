@@ -81,6 +81,4 @@
 1. Установи зависимости:
 
 ```bash
-pip install aiogram  
-
-pip install dotenv (для работы с .env файлами, там хранится токен бота)
+pip install -r requirements.txt
