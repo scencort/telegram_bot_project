@@ -82,4 +82,5 @@
 
 ```bash
 pip install aiogram  
+
 pip install dotenv (для работы с .env файлами, там хранится токен бота)
