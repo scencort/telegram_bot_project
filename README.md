@@ -84,3 +84,9 @@
 pip install aiogram  
 
 pip install sqlite
+
+---
+
+## 🖼 Скриншоты
+
+Скриншоты проекта хранятся в папке [`screens`](Screenshots of the project's work).
