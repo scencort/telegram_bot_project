@@ -81,5 +81,6 @@
 1. Установи зависимости:
 
 ```bash
-pip install aiogram   
+pip install aiogram  
+ 
 pip install sqlite
